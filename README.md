@@ -1,7 +1,7 @@
 # 𝙻𝚊𝚋-𝙰𝚜𝚜𝚒𝚐𝚗𝚖𝚎𝚗𝚝-𝟼
 
 UML Diagram : 
-<img src="" width="90%"></img> 
+<img src="https://github.com/VinceSevilla/Lab_Assignment6/assets/133684091/298fd9a3-02d1-4f5a-a9dd-52a5557d4b9c" width="90%"></img> 
 
 𝙸𝚗𝚜𝚝𝚛𝚞𝚌𝚝𝚒𝚘𝚗𝚜 : 
 
